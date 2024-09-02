@@ -1,0 +1,6 @@
+a=int(input("國文成績"))
+b=int(input("數學成績"))
+c=int(input("英文成績"))
+print(a+b+c)
+print((a+b+c)/3)
+print(f"平均成績:{(a+b+c)/3:.2f}")

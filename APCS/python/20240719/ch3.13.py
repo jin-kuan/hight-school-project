@@ -1,0 +1,11 @@
+myliist=[8,9,7,2,3]
+m1=max(myliist)
+m2=min(myliist)
+print(m1,m2)
+s=sum(myliist)
+print(s)
+a=sorted(myliist)
+print(sorted(myliist))
+print(a)
+myliist.sort
+print(myliist)
