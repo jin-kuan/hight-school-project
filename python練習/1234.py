@@ -1,14 +1,19 @@
-import cv2
-abc=cv2.VideoCapture(0)
 
-while True:
-
-    ret, fame =abc.read()
-    if ret:
-     
-      cv2.imshow('aaa',fame) 
+h=int(input("成績"))
+if(h>90):
+    print("A")
+else:
+    if(h>80):
+    print("B")
     else:
-       break
-    if cv2.waitKey(1 )== ord(' '):
-       break 
-print(abc) 
+        if(h>70):
+        print("C")
+        else:
+            if(h>60):
+            print("d")
+            else:
+            print("E")
+
+    
+ 
+
