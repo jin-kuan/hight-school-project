@@ -5,9 +5,9 @@ import schedule
 import time
 
 # 配置您的電子郵件帳戶信息
-email_address = "jzhu7926@gmail.com"
-email_password = "xyz12345678"
-recipient_email = "chujinkuan@gmail.com"
+email_address = "hahahah@gmail.com"
+email_password = "i don't now"
+recipient_email = "abc123@gmail.com"
 
 def send_email():
     # 建立郵件內容
