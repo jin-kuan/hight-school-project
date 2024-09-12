@@ -1,5 +1,0 @@
-print("輸入梯形的上底、下底跟高，可得到梯形面積")
-x=int(input("上底"))
-y=int(input("下底"))
-h=int(input("高"))
-print("面積",(x+y)*h/2)
